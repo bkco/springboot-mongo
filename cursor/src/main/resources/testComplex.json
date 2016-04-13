@@ -1,0 +1,51 @@
+[
+  {
+    "id": "5146bb52d8524270060001f1",
+    "name": "john",
+    "instrument": "guitar",
+    "creationDate":"2015­04­12 02:23:24"
+  },
+  {
+    "id": "5146bb52d8524270060001f2",
+    "name": "paul",
+    "instrument": "bass",
+    "creationDate":"2015­04­12 02:23:24"
+  },
+  {
+    "id": "5146bb52d8524270060001f3",
+    "name": "ringo",
+    "instrument": "drums",
+    "creationDate":"2015­04­12 02:23:24"
+  },
+  {
+    "id": "5146bb52d8524270060001f4",
+    "name": "george",
+    "instrument": "lead guitar",
+    "creationDate":"2015­04­12 02:23:24"
+  },
+  {
+    "id": "5",
+    "name": "pele",
+    "position": "centre forward",
+    "creationDate":"2015­04­12 02:23:24"
+  },
+  {
+    "id": "6",
+    "name": "ray houghton",
+    "position": "midfielder"
+  },
+  {
+    "id": "7",
+    "name": "BMX rider",
+    "vehicleType" : "bike",
+    "vehicleId" : "X00001",
+    "maxSpeed" : "35 kmph"
+  },
+  {
+    "id": "8",
+    "name": "road rider",
+    "vehicleType" : "bike",
+    "vehicleId" : "X00002",
+    "maxSpeed" : "65 kmph"
+  }
+]

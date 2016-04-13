@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5146bb52d8524270060001f1",
+    "name": "john",
+    "instrument": "guitar",
+    "creationDate":"2015­04­12 02:23:24"
+  },
+  {
+    "id": "5146bb52d8524270060001f2",
+    "name": "paul",
+    "instrument": "bass",
+    "creationDate":"2015­04­12 02:23:24"
+  },
+  {
+    "id": "5146bb52d8524270060001f3",
+    "name": "ringo",
+    "instrument": "drums",
+    "creationDate":"2015­04­12 02:23:24"
+  },
+  {
+    "id": "5146bb52d8524270060001f4",
+    "name": "george",
+    "instrument": "lead guitar",
+    "creationDate":"2015­04­12 02:23:24"
+  }
+]
