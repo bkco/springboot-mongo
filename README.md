@@ -7,11 +7,13 @@ Project "cursor" demos:
 * streaming a JSON file of unknown structure to CSV.
 
 ## Build Project
-1.  Java 8 must be used to build.
+1.  Use JDK 8.
 2.  mvn clean install
 
 ## Run Project
 1.  Run with "java -jar /path/to/cursor-0.0.1-SNAPSHOT.jar"
 2.  CURL request:
-        curl -X GET -H "Content-Type: text/csv" http://localhost:8080/csv
-        curl -X GET -H "Content-Type: text/csv" http://localhost:8080/csvfromfile
+
+    curl -X GET -H "Content-Type: text/csv" http://localhost:8080/csv
+
+    curl -X GET -H "Content-Type: text/csv" http://localhost:8080/csvfromfile
