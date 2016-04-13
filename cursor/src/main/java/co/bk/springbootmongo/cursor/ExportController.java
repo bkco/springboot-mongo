@@ -174,7 +174,7 @@ public class ExportController {
         try {
 
             // Read cached data and write CSV data
-            FileInputStream fis = new FileInputStream(new File(CACHED_FILE)); //bueffer??
+            FileInputStream fis = new FileInputStream(new File(CACHED_FILE));
             JsonObjectIterator joi = new JsonObjectIterator(fis);
 
             List<String> headersList = new ArrayList<String>(headers);
